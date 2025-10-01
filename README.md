@@ -1,1 +1,1 @@
-# Solve-Me-First-algo
+# Solve-Me-First-algo This program reads two integers from the user, adds them using the solveMeFirst function, and then prints the result. It’s a simple example of breaking a task into a separate method for clarity and reuse.
